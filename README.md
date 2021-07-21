@@ -1,6 +1,6 @@
 # praktikum_uas
 
-# uas pemrograman web 
+# UAS Pemrograman web 
 
 
 nama:axel danovan
